@@ -1,0 +1,5 @@
+@for $percentage from 1 through 100 {
+ .m-#{$percentage}{
+  margin: $percentage * 1%;
+ }
+}
