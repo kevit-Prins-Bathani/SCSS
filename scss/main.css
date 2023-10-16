@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: cadetblue;
+  font-size: 6rem;
+  letter-spacing: 0.3rem;
+}
+h1:hover {
+  color: red;
+}
+
+.main_header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(255, 192, 206);
+  width: 100vw;
+  height: 100vh;
+}
+
+p {
+  color: cornflowerblue;
+  font-size: 4rem;
+  letter-spacing: 0.3rem;
+}
+p:hover {
+  color: brown;
+}/*# sourceMappingURL=main.css.map */
